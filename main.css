@@ -2,7 +2,16 @@ body {
 
 }
 
+#wrapper {
+	margin: 0 auto 0;
+	width: 400px;
+}
+
+.content * {
+	padding: 0 auto 0;
+}
+
 #sliderd {
-	width: 565px;
+	width: 280px;
 	margin: 25px 0 0 30px;
 }
